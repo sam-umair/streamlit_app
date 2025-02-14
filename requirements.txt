@@ -6,3 +6,4 @@ matplotlib
 wordcloud
 PyPDF2
 python-docx
+PIL
