@@ -6,6 +6,6 @@ matplotlib
 wordcloud
 PyPDF2
 python-docx
-PIL
-Image
+streamlit
 pillow
+Image
